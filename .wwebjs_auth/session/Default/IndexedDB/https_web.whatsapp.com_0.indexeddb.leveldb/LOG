@@ -1,0 +1,66 @@
+2026/05/18-10:31:12.036 14c0 Reusing MANIFEST C:\Users\User\super-kali-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/05/18-10:31:12.036 14c0 Recovering log #194
+2026/05/18-10:31:12.064 14c0 Reusing old log C:\Users\User\super-kali-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000194.log 
+2026/05/18-10:32:38.447 c0c Level-0 table #205: started
+2026/05/18-10:32:38.484 c0c Level-0 table #205: 1173458 bytes OK
+2026/05/18-10:32:38.486 c0c Delete type=0 #194
+2026/05/18-10:32:38.499 c0c Compacting 1@1 + 7@2 files
+2026/05/18-10:32:38.622 c0c Generated table #206@1: 51870 keys, 2230742 bytes
+2026/05/18-10:32:38.679 c0c Generated table #207@1: 15926 keys, 2162180 bytes
+2026/05/18-10:32:38.724 c0c Generated table #208@1: 1311 keys, 2135821 bytes
+2026/05/18-10:32:38.795 c0c Generated table #209@1: 11194 keys, 2192548 bytes
+2026/05/18-10:32:38.865 c0c Generated table #210@1: 18894 keys, 2204797 bytes
+2026/05/18-10:32:38.957 c0c Generated table #211@1: 85877 keys, 2232403 bytes
+2026/05/18-10:32:39.009 c0c Generated table #212@1: 59832 keys, 1407089 bytes
+2026/05/18-10:32:39.009 c0c Compacted 1@1 + 7@2 files => 14565580 bytes
+2026/05/18-10:32:39.010 c0c compacted to: files[ 0 0 7 0 0 0 0 ]
+2026/05/18-10:32:39.010 c0c Delete type=2 #196
+2026/05/18-10:32:39.010 c0c Delete type=2 #197
+2026/05/18-10:32:39.010 c0c Delete type=2 #198
+2026/05/18-10:32:39.010 c0c Delete type=2 #199
+2026/05/18-10:32:39.011 c0c Delete type=2 #200
+2026/05/18-10:32:39.011 c0c Delete type=2 #201
+2026/05/18-10:32:39.011 c0c Delete type=2 #202
+2026/05/18-10:32:39.011 c0c Delete type=2 #205
+2026/05/18-10:33:22.489 c0c Level-0 table #214: started
+2026/05/18-10:33:22.526 c0c Level-0 table #214: 1049283 bytes OK
+2026/05/18-10:33:22.527 c0c Delete type=0 #204
+2026/05/18-10:33:22.543 c0c Compacting 1@1 + 7@2 files
+2026/05/18-10:33:22.648 c0c Generated table #215@1: 51880 keys, 2229973 bytes
+2026/05/18-10:33:22.701 c0c Generated table #216@1: 17159 keys, 2165089 bytes
+2026/05/18-10:33:22.735 c0c Generated table #217@1: 1263 keys, 2133801 bytes
+2026/05/18-10:33:22.790 c0c Generated table #218@1: 10659 keys, 2188905 bytes
+2026/05/18-10:33:22.859 c0c Generated table #219@1: 19415 keys, 2208263 bytes
+2026/05/18-10:33:22.961 c0c Generated table #220@1: 82634 keys, 2226720 bytes
+2026/05/18-10:33:23.027 c0c Generated table #221@1: 63454 keys, 1488782 bytes
+2026/05/18-10:33:23.027 c0c Compacted 1@1 + 7@2 files => 14641533 bytes
+2026/05/18-10:33:23.028 c0c compacted to: files[ 0 0 7 0 0 0 0 ]
+2026/05/18-10:33:23.028 c0c Delete type=2 #206
+2026/05/18-10:33:23.028 c0c Delete type=2 #207
+2026/05/18-10:33:23.028 c0c Delete type=2 #208
+2026/05/18-10:33:23.028 c0c Delete type=2 #209
+2026/05/18-10:33:23.028 c0c Delete type=2 #210
+2026/05/18-10:33:23.029 c0c Delete type=2 #211
+2026/05/18-10:33:23.029 c0c Delete type=2 #212
+2026/05/18-10:33:23.029 c0c Delete type=2 #214
+2026/05/18-10:34:06.971 1934 Level-0 table #223: started
+2026/05/18-10:34:07.010 1934 Level-0 table #223: 1110192 bytes OK
+2026/05/18-10:34:07.011 1934 Delete type=0 #213
+2026/05/18-10:36:14.142 c0c Compacting 1@1 + 7@2 files
+2026/05/18-10:36:14.242 c0c Generated table #224@1: 50951 keys, 2228043 bytes
+2026/05/18-10:36:14.309 c0c Generated table #225@1: 20184 keys, 2175807 bytes
+2026/05/18-10:36:14.344 c0c Generated table #226@1: 1195 keys, 2132412 bytes
+2026/05/18-10:36:14.397 c0c Generated table #227@1: 9619 keys, 2182537 bytes
+2026/05/18-10:36:14.472 c0c Generated table #228@1: 20293 keys, 2218426 bytes
+2026/05/18-10:36:14.561 c0c Generated table #229@1: 77856 keys, 2221612 bytes
+2026/05/18-10:36:14.631 c0c Generated table #230@1: 68826 keys, 1611377 bytes
+2026/05/18-10:36:14.631 c0c Compacted 1@1 + 7@2 files => 14770214 bytes
+2026/05/18-10:36:14.632 c0c compacted to: files[ 0 0 7 0 0 0 0 ]
+2026/05/18-10:36:14.632 c0c Delete type=2 #215
+2026/05/18-10:36:14.633 c0c Delete type=2 #216
+2026/05/18-10:36:14.633 c0c Delete type=2 #217
+2026/05/18-10:36:14.633 c0c Delete type=2 #218
+2026/05/18-10:36:14.633 c0c Delete type=2 #219
+2026/05/18-10:36:14.633 c0c Delete type=2 #220
+2026/05/18-10:36:14.633 c0c Delete type=2 #221
+2026/05/18-10:36:14.633 c0c Delete type=2 #223
