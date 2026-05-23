@@ -4,5 +4,10 @@
   "main": "super_kali.js",
   "scripts": {
     "start": "node super_kali.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.34.1"
   }
 }
