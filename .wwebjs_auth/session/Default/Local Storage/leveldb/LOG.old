@@ -1,3 +1,6 @@
-2026/05/18-10:26:01.954 42ec Reusing MANIFEST C:\Users\User\super-kali-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/18-10:26:01.959 42ec Recovering log #3
-2026/05/18-10:26:01.962 42ec Reusing old log C:\Users\User\super-kali-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2026/05/18-10:31:11.489 2f94 Reusing MANIFEST C:\Users\User\super-kali-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/18-10:31:11.495 2f94 Recovering log #3
+2026/05/18-10:31:11.498 2f94 Reusing old log C:\Users\User\super-kali-bot\.wwebjs_auth\session\Default\Local Storage\leveldb/000003.log 
+2026/05/18-10:32:11.517 4364 Level-0 table #5: started
+2026/05/18-10:32:11.525 4364 Level-0 table #5: 18630 bytes OK
+2026/05/18-10:32:11.527 4364 Delete type=0 #3
